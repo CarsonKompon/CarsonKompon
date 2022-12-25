@@ -5,8 +5,8 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
 <table id="verticalalign" style="width:100%">
     <thead>
         <tr>
-            <th>Games</th>
-            <th>Other</th>
+            <th>🎮 Games 🎮</th>
+            <th>🌐 Other 🌐</th>
         </tr>
     </thead>
     <tbody>
