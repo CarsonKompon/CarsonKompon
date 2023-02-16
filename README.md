@@ -85,6 +85,14 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                                 </ul>
                             </td>
                         </tr>
+                        <tr>
+                            <td halign="left" valign="top">
+                                3DS Stuff:
+                                <ul>
+                                    <li><a href="https://github.com/CarsonKompon/TomodachiTools">TomodachiTools</a></li>
+                                </ul>
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </td>
