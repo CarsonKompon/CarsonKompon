@@ -45,7 +45,7 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                             <td halign="left" valign="top">
                                 Contributed Towards:
                                 <ul>
-                                    <li><a href="https://github.com/megaminerjenny/HeavenStudio">Heaven Studio</a></li>
+                                    <li><a href="https://github.com/RHeavenStudio/HeavenStudio">Heaven Studio</a></li>
                                 </ul>
                             </td>
                         </tr>
