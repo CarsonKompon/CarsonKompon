@@ -66,30 +66,23 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                         </tr>
                         <tr>
                             <td halign="left" valign="top">
-                                Versusville Stuff:
+                                Reverse Engineering:
                                 <ul>
+                                    <li><a href="https://github.com/CarsonKompon/TomodachiTools">TomodachiTools</a></li>
                                     <li><a href="https://github.com/CarsonKompon/TrimorphTools">TrimorphTools</a></li>
                                     <li><a href="https://github.com/CarsonKompon/Versusville202XPatch">Versusville202XPatch</a></li>
-                                    <li><a href="https://github.com/CarsonKompon/VersusvilleSite">VersusvilleSite</a></li>
-                                    <li><a href="https://github.com/CarsonKompon/VersusvilleServlet">VersusvilleServlet</a></li>   
+                                    <li><a href="https://github.com/CarsonKompon/VersusvilleServlet">VersusvilleServlet</a></li>
                                 </ul>
                             </td>
                         </tr>
                         <tr>
                             <td halign="left" valign="top">
-                                ComputerCraft Stuff:
+                                Other Interesting Stuff:
                                 <ul>
+                                    <li><a href="https://github.com/CarsonKompon/VersusvilleSite">VersusvilleSite</a></li>
                                     <li><a href="https://github.com/CarsonKompon/CCTriviaUnite">CCTriviaUnite</a></li>
                                     <li><a href="https://github.com/CarsonKompon/CCTriviaUniteTogether">CCTriviaUniteTogether</a></li>
                                     <li><a href="https://github.com/CarsonKompon/CCElevatorOS">CCElevatorOS</a></li>
-                                </ul>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td halign="left" valign="top">
-                                3DS Stuff:
-                                <ul>
-                                    <li><a href="https://github.com/CarsonKompon/TomodachiTools">TomodachiTools</a></li>
                                 </ul>
                             </td>
                         </tr>
