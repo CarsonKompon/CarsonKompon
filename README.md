@@ -69,6 +69,17 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                         </tr>
                         <tr>
                             <td halign="left" valign="top">
+                                S&box Stuff:
+                                <ul>
+                                    <li><a href="https://github.com/CarsonKompon/sbox-plates">Pl&tes</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/sbox-rhythm4k">Rhythm4k</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/Rhythm4kConverter">Rhythm4kConverter</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/sbox-funkin">Funkin'</a></li>
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td halign="left" valign="top">
                                 Reverse Engineering:
                                 <ul>
                                     <li><a href="https://github.com/CarsonKompon/TomodachiTools">TomodachiTools</a></li>
