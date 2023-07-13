@@ -28,19 +28,25 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                                 </ul>
                             </td>
                         </tr>
+                     <tr>
+                            <td halign="left" valign="top">
+                                Major Release Games:
+                                <ul>
+                                    <li><a href="https://store.steampowered.com/app/670720/Stealthscape/">Stealthscape</a></li>
+                                    <li><a href="https://store.steampowered.com/app/1541250/Super_Raft_Boat">Super Raft Boat</a></li>
+                                    <li><a href="https://store.steampowered.com/app/2144080/Half_Hour_Hexagon">Half Hour Hexagon</a></li>
+                                    <li><a href="https://store.steampowered.com/app/2097230/Turnip_Boy_Robs_a_Bank/">Turnip Boy Robs a Bank</a></li>
+                                </ul>
+                            </td>
+                        </tr>
                         <tr>
                             <td halign="left" valign="top">
-                                PICO-8 Games:
+                                S&box Games/Addons:
                                 <ul>
-                                    <li><a href="https://github.com/CarsonKompon/pico-night-punkin">PICO NIGHT PUNKIN'</a></li>
-                                    <li><a href="https://github.com/CarsonKompon/ISLANDER">ISLANDER</a></li>
-                                    <li><a href="https://github.com/CarsonKompon/iii-demake">iii Demake</a></li>
-                                    <li><a href="https://github.com/CarsonKompon/STLTHSCPE">STLTHSCPE</a></li>
-                                    <li><a href="https://github.com/CarsonKompon/Soulkoban">Soulkobon</a></li>
-                                    <li><a href="https://github.com/CarsonKompon/Arrowmania">Arrowmania</a></li>
-                                    <li><a href="https://github.com/CarsonKompon/Drop-Coin">Drop Coin</a></li>
-                                    <li><a href="https://github.com/CarsonKompon/Win-Win">Win/Win</a></li>
-                                    <li><a href="https://github.com/CarsonKompon/Curve-Dasher-DX">Curve Dasher DX</a></li>
+                                    <li><a href="https://asset.party/carsonk/home">Home</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/rhythm4k">Rhythm4K</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/sbox-tetros">Tetros</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/sbox-mediahelpers">MediaHelpers</a></li>
                                 </ul>
                             </td>
                         </tr>
@@ -69,10 +75,10 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                         </tr>
                         <tr>
                             <td halign="left" valign="top">
-                                S&box Stuff:
+                                Old S&box Stuff:
                                 <ul>
                                     <li><a href="https://github.com/CarsonKompon/sbox-plates">Pl&tes</a></li>
-                                    <li><a href="https://github.com/CarsonKompon/sbox-rhythm4k">Rhythm4k</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/sbox-rhythm4k">Rhythm4k (Old Version)</a></li>
                                     <li><a href="https://github.com/CarsonKompon/Rhythm4kConverter">Rhythm4kConverter</a></li>
                                     <li><a href="https://github.com/CarsonKompon/sbox-funkin">Funkin'</a></li>
                                 </ul>
