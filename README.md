@@ -28,17 +28,6 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                                 </ul>
                             </td>
                         </tr>
-                     <tr>
-                            <td halign="left" valign="top">
-                                Major Release Games:
-                                <ul>
-                                    <li><a href="https://store.steampowered.com/app/670720/Stealthscape/">Stealthscape</a></li>
-                                    <li><a href="https://store.steampowered.com/app/1541250/Super_Raft_Boat">Super Raft Boat</a></li>
-                                    <li><a href="https://store.steampowered.com/app/2144080/Half_Hour_Hexagon">Half Hour Hexagon</a></li>
-                                    <li><a href="https://store.steampowered.com/app/2097230/Turnip_Boy_Robs_a_Bank/">Turnip Boy Robs a Bank</a></li>
-                                </ul>
-                            </td>
-                        </tr>
                         <tr>
                             <td halign="left" valign="top">
                                 S&box Games/Addons:
@@ -47,6 +36,22 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                                     <li><a href="https://github.com/CarsonKompon/rhythm4k">Rhythm4K</a></li>
                                     <li><a href="https://github.com/CarsonKompon/sbox-tetros">Tetros</a></li>
                                     <li><a href="https://github.com/CarsonKompon/sbox-mediahelpers">MediaHelpers</a></li>
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td halign="left" valign="top">
+                                PICO-8 Games:
+                                <ul>
+                                    <li><a href="https://github.com/CarsonKompon/pico-night-punkin">PICO NIGHT PUNKIN'</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/ISLANDER">ISLANDER</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/iii-demake">iii Demake</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/STLTHSCPE">STLTHSCPE</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/Soulkoban">Soulkobon</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/Arrowmania">Arrowmania</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/Drop-Coin">Drop Coin</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/Win-Win">Win/Win</a></li>
+                                    <li><a href="https://github.com/CarsonKompon/Curve-Dasher-DX">Curve Dasher DX</a></li>
                                 </ul>
                             </td>
                         </tr>
@@ -113,4 +118,4 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
     </tbody>
 </table>
 
-You can also check out my archive of works on [my website](https://carsonk.net/)!
+You can also check out a full archive of my works on [my website](https://carsonk.net/archive)!
