@@ -1,6 +1,6 @@
 Hello! My name is Carson, and I make Games, Tools, Generative Art, and so much more!
 
-I'm mostly a game developer, with most of my work being done in GameMaker, PICO-8, Unity and Godot. But I've also tinkered with tons of other engines in the past aswell! Follow me on [Twitter](https://twitter.com/CarsonKompon) since that's where I'm most active!
+I'm mostly a game developer, with most of my work being done in GameMaker, PICO-8, Unity and Godot. But I've also tinkered with tons of other engines in the past aswell! Follow me on [Twitter / X](https://twitter.com/CarsonKompon) since that's where I'm most active!
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carsonkompon&theme=github_dark) 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carsonkompon&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carsonkompon&theme=github_dark) 
