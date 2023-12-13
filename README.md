@@ -77,16 +77,7 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                                 <br />
                                 <a href="https://github.com/CarsonKompon/pizza_clicker">Pizza Clicker</a>
                                 <br />
-                                <a href="https://github.com/CarsonKompon/GuessIt">GuessIt</a>
-                                <br />
-                                <a href="https://github.com/CarsonKompon/rhythm4k">Rhythm4K</a>
-                                <br />
-                                <a href="https://github.com/CarsonKompon/sbox-tetros">Tetros</a>
-                                <br />
-                                <a href="https://github.com/CarsonKompon/flappy_game">Flappy Game</a>
-                                <br />
-                                <a href="https://asset.party/carsonk/home">Home</a>
-                                <br />
+                                <a href="https://github.com/CarsonKompon/tetros_effect">Tetros Effect</a>
                             </td>
                         </tr>
                         <tr>
@@ -106,6 +97,16 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                                 <br />
                                 <a href="https://github.com/CarsonKompon/sbox-plates">Pl&tes</a>
                                 <br />
+                                <a href="https://github.com/CarsonKompon/GuessIt">GuessIt</a>
+                                <br />
+                                <a href="https://github.com/CarsonKompon/rhythm4k">Rhythm4K</a>
+                                <br />
+                                <a href="https://github.com/CarsonKompon/sbox-tetros">Tetros</a>
+                                <br />
+                                <a href="https://github.com/CarsonKompon/flappy_game">Flappy Game</a>
+                                <br />
+                                <a href="https://asset.party/carsonk/home">Home</a>
+                                <br />
                                 <a href="https://github.com/CarsonKompon/sbox-rhythm4k">Rhythm4k (Old Version)</a>
                                 <br />
                                 <a href="https://github.com/CarsonKompon/Rhythm4kConverter">Rhythm4kConverter</a>
@@ -116,6 +117,8 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                         <tr>
                             <td halign="left" valign="top">
                                 Contributed Towards:
+                                <br />
+                                <a href="https://github.com/apetavern/what-lurks-below">What Lurks Below</a>
                                 <br />
                                 <a href="https://github.com/Eagle-One-Development/sbox-terry-squat-simulator">Terry Squat Simulator (Pain Day Fixes)</a>
                             </td>
