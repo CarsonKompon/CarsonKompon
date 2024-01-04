@@ -75,20 +75,26 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                             <td halign="left" valign="top">
                                 S&box Games:
                                 <br />
+                                <a href="https://github.com/CarsonKompon/tetros_effect">Tetros Effect</a>
+                                <br />
                                 <a href="https://github.com/CarsonKompon/pizza_clicker">Pizza Clicker</a>
                                 <br />
-                                <a href="https://github.com/CarsonKompon/tetros_effect">Tetros Effect</a>
+                                <a href="https://github.com/CarsonKompon/cyka_game">Cyka Game</a>
+                                <br />
+                                <a href="https://github.com/CarsonKompon/terry_audio_visualizer">Terry Audio Visualizer</a>
+                                <br />
+                                <a href="https://asset.party/carsonk/daw">D&W</a>
                             </td>
                         </tr>
                         <tr>
                             <td halign="left" valign="top">
                                 S&box Addons/Libraries:
                                 <br />
-                                <a href="https://github.com/CarsonKompon/sandbox_gmod_css">Gmodify</a>
-                                <br />
                                 <a href="https://github.com/carsonKompon/sbox-mediaplayer">Carson's MediaPlayer</a>
                                 <br />
                                 <a href="https://github.com/CarsonKompon/sbox-mediahelpers">MediaHelpers</a>
+                                <br />
+                                <a href="https://github.com/CarsonKompon/sandbox_gmod_css">Gmodify</a>
                             </td>
                         </tr>
                         <tr>
