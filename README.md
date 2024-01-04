@@ -163,6 +163,8 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                             <td halign="left" valign="top">
                                 Other Interesting Stuff:
                                 <br />
+                                <a href="https://github.com/CarsonKompon/genuary_2024">Genuary 2024</a>
+                                <br />
                                 <a href="https://github.com/CarsonKompon/VersusvilleSite">VersusvilleSite</a>
                                 <br />
                                 <a href="https://github.com/CarsonKompon/CCTriviaUnite">CCTriviaUnite</a>
