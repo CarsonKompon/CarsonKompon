@@ -75,7 +75,11 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                             <td halign="left" valign="top">
                                 S&box Games:
                                 <br />
+                                <a href="https://github.com/carsonKompon/horde">Horde</a>
+                                <br />
                                 <a href="https://github.com/CarsonKompon/tetros_effect">Tetros Effect</a>
+                                <br />
+                                <a href="https://github.com/carsonKompon/terry_io">Terry.IO</a>
                                 <br />
                                 <a href="https://github.com/CarsonKompon/sbox-talker">Talker</a>
                                 <br />
