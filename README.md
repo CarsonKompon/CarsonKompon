@@ -75,7 +75,11 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                             <td halign="left" valign="top">
                                 S&box Games:
                                 <br />
-                                <a href="https://github.com/carsonKompon/horde">Horde</a>
+                                <a href="https://github.com/CarsonKompon/Rhythm4K">Rhythm4K</a>
+                                <br />
+                                <a href="https://asset.party/carsonk/squirtfire">Squirtfire</a>
+                                <br />
+                                <a href="https://github.com/CarsonKompon/horde">Horde</a>
                                 <br />
                                 <a href="https://github.com/CarsonKompon/tetros_effect">Tetros Effect</a>
                                 <br />
@@ -105,30 +109,9 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                         </tr>
                         <tr>
                             <td halign="left" valign="top">
-                                Outdated S&box Stuff:
-                                <br />
-                                <a href="https://github.com/CarsonKompon/sbox-plates">Pl&tes</a>
-                                <br />
-                                <a href="https://github.com/CarsonKompon/GuessIt">GuessIt</a>
-                                <br />
-                                <a href="https://github.com/CarsonKompon/rhythm4k">Rhythm4K</a>
-                                <br />
-                                <a href="https://github.com/CarsonKompon/sbox-tetros">Tetros</a>
-                                <br />
-                                <a href="https://github.com/CarsonKompon/flappy_game">Flappy Game</a>
-                                <br />
-                                <a href="https://asset.party/carsonk/home">Home</a>
-                                <br />
-                                <a href="https://github.com/CarsonKompon/sbox-rhythm4k">Rhythm4k (Old Version)</a>
-                                <br />
-                                <a href="https://github.com/CarsonKompon/Rhythm4kConverter">Rhythm4kConverter</a>
-                                <br />
-                                <a href="https://github.com/CarsonKompon/sbox-funkin">Funkin'</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td halign="left" valign="top">
                                 Contributed Towards:
+                                <br />
+                                <a href="https://github.com/apetavern/grug">GRUG</a>
                                 <br />
                                 <a href="https://github.com/apetavern/what-lurks-below">What Lurks Below</a>
                                 <br />
