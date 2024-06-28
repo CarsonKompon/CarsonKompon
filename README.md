@@ -1,6 +1,6 @@
-Hello! My name is Carson, and I make Games, Tools, Generative Art, and so much more!
+Hello! My name is Carson, and I make Games, Tools, Music, Generative Art, and so much more!
 
-I'm mostly a game developer, with most of my work being done in GameMaker, PICO-8, S&box, Unity and Godot. But I've also tinkered with tons of other engines and frameworks in the past aswell! Follow me on [Twitter / X](https://twitter.com/CarsonKompon) since that's where I'm most active!
+I'm a programmer, with most of my work being done in S&box, GameMaker, PICO-8, Unity and Godot. But I've also tinkered with tons of other engines and frameworks in the past aswell! Follow me on [Twitter / X](https://twitter.com/CarsonKompon) since that's where I'm most active!
 
 <div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carsonkompon&theme=github_dark" />
@@ -75,6 +75,8 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                             <td halign="left" valign="top">
                                 S&box Games:
                                 <br />
+                                <a href="https://github.com/CarsonKompon/instagib">GIBLETZ</a>
+                                <br />
                                 <a href="https://github.com/CarsonKompon/Rhythm4K">Rhythm4K</a>
                                 <br />
                                 <a href="https://asset.party/carsonk/squirtfire">Squirtfire</a>
@@ -85,7 +87,7 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                                 <br />
                                 <a href="https://github.com/carsonKompon/terry_io">Terry.IO</a>
                                 <br />
-                                <a href="https://github.com/CarsonKompon/sbox-talker">Talker</a>
+                                <a href="https://github.com/CarsonKompon/sbox-talker">Talker (Scenebox)</a>
                                 <br />
                                 <a href="https://github.com/CarsonKompon/pizza_clicker">Pizza Clicker</a>
                                 <br />
@@ -100,11 +102,11 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                             <td halign="left" valign="top">
                                 S&box Addons/Libraries:
                                 <br />
-                                <a href="https://github.com/carsonKompon/sbox-mediaplayer">Carson's MediaPlayer</a>
+                                <a href="https://github.com/carsonKompon/sprite_tools">Sprite Tools</a>
                                 <br />
                                 <a href="https://github.com/CarsonKompon/sbox-mediahelpers">MediaHelpers</a>
                                 <br />
-                                <a href="https://github.com/CarsonKompon/sandbox_gmod_css">Gmodify</a>
+                                <a href="https://asset.party/carsonk/sfxr">SFXR</a>
                             </td>
                         </tr>
                         <tr>
@@ -114,8 +116,6 @@ I'm mostly a game developer, with most of my work being done in GameMaker, PICO-
                                 <a href="https://github.com/apetavern/grug">GRUG</a>
                                 <br />
                                 <a href="https://github.com/apetavern/what-lurks-below">What Lurks Below</a>
-                                <br />
-                                <a href="https://github.com/Eagle-One-Development/sbox-terry-squat-simulator">Terry Squat Simulator (Pain Day Fixes)</a>
                             </td>
                         </tr>
                     </tbody>
